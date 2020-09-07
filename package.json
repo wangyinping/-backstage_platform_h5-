@@ -1,8 +1,8 @@
 {
-  "name": "backstage_platform",
-  "version": "1.0.0",
-  "description": "通用后台管理平台系统",
-  "author": "kaola",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
